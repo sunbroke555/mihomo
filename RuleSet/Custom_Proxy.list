@@ -1,5 +1,3 @@
-
-
 DOMAIN-SUFFIX,hltv.org
 DOMAIN-SUFFIX,mirror.osbeck.com
 DOMAIN-SUFFIX,arch-mirror.wtako.net
@@ -11,7 +9,6 @@ DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,claw.cloud
 DOMAIN-KEYWORD,docker
 DOMAIN-KEYWORD,wiki
-#观众
 DOMAIN,audiences.me
 DOMAIN-KEYWORD,hhanclub
 DOMAIN-SUFFIX,hhan.club
