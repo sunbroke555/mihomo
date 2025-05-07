@@ -17,7 +17,7 @@ DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,claw.cloud
 DOMAIN-KEYWORD,docker
 DOMAIN-KEYWORD,wiki
-DOMAIN,audiences.me
+DOMAIN-SUFFIX,audiences.me
 DOMAIN-KEYWORD,hhanclub
 DOMAIN-SUFFIX,hhan.club
 DOMAIN-KEYWORD,github
