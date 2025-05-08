@@ -24,6 +24,7 @@ DOMAIN-KEYWORD,gitbook
 DOMAIN-KEYWORD,wiki
 
 #DOMAIN-SUFFIX，匹配域名后缀
+DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,proxmox.com
 DOMAIN-SUFFIX,arch-mirror.wtako.net
 DOMAIN-SUFFIX,audiences.me
@@ -45,4 +46,4 @@ DOMAIN-SUFFIX,movie-pilot.org
 DOMAIN-SUFFIX,nmnm.fun
 DOMAIN-SUFFIX,sing-box.sagernet.org
 DOMAIN-SUFFIX,sunnypt.top
-DOMAIN-SUFFIX,github.io
+
