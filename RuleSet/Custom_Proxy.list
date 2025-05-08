@@ -24,6 +24,7 @@ DOMAIN-KEYWORD,gitbook
 DOMAIN-KEYWORD,wiki
 
 #DOMAIN-SUFFIX，匹配域名后缀
+DOMAIN-SUFFIX,proxmox.com
 DOMAIN-SUFFIX,arch-mirror.wtako.net
 DOMAIN-SUFFIX,audiences.me
 DOMAIN-SUFFIX,bcreatpk.com
