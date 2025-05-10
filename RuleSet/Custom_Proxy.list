@@ -2,6 +2,7 @@
 DOMAIN,pterclub.com
 DOMAIN,springsunday.net
 
+
 #DOMAIN-KEYWORD，使用域名关键字匹配
 DOMAIN-KEYWORD,spaceship
 DOMAIN-KEYWORD,anaconda
@@ -24,6 +25,7 @@ DOMAIN-KEYWORD,gitbook
 DOMAIN-KEYWORD,wiki
 
 #DOMAIN-SUFFIX，匹配域名后缀
+DOMAIN-SUFFIX,tsb2blog.com
 DOMAIN-SUFFIX,softonic.com
 DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,proxmox.com
