@@ -25,6 +25,7 @@ DOMAIN-KEYWORD,gitbook
 DOMAIN-KEYWORD,wiki
 
 #DOMAIN-SUFFIX，匹配域名后缀
+DOMAIN-SUFFIX,pypi.org
 DOMAIN-SUFFIX,pkgbuild.com
 DOMAIN-SUFFIX,tsb2blog.com
 DOMAIN-SUFFIX,softonic.com
