@@ -25,6 +25,7 @@ DOMAIN-KEYWORD,gitbook
 DOMAIN-KEYWORD,wiki
 
 #DOMAIN-SUFFIX，匹配域名后缀
+
 DOMAIN-SUFFIX,giffgaff.com
 DOMAIN-SUFFIX,archlinux.org
 DOMAIN-SUFFIX,pool.ntp.org
