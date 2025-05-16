@@ -1,7 +1,7 @@
 #DOMAIN，匹配完整域名
 DOMAIN,pterclub.com
 DOMAIN,springsunday.net
-
+DOMAIN,azusa.wiki
 
 #DOMAIN-KEYWORD，使用域名关键字匹配
 DOMAIN-KEYWORD,spaceship
