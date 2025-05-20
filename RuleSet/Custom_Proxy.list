@@ -1,6 +1,6 @@
 #DOMAIN，匹配完整域名
 DOMAIN,azusa.wiki
-DOMAIN,pterclub.com
+DOMAIN,pterclub.com 
 DOMAIN,springsunday.net
 
 
@@ -26,7 +26,7 @@ DOMAIN-KEYWORD,gitbook
 DOMAIN-KEYWORD,wiki
 
 #DOMAIN-SUFFIX，匹配域名后缀
-
+DOMAIN-SUFFIX,pcbeta.com
 DOMAIN-SUFFIX,giffgaff.com
 DOMAIN-SUFFIX,archlinux.org
 DOMAIN-SUFFIX,pool.ntp.org
