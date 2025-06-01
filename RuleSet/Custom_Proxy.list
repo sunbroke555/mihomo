@@ -26,6 +26,7 @@ DOMAIN-KEYWORD,gitbook
 DOMAIN-KEYWORD,wiki
 
 #DOMAIN-SUFFIX，匹配域名后缀
+DOMAIN-SUFFIX,nexusphp.org
 DOMAIN-SUFFIX,pcbeta.com
 DOMAIN-SUFFIX,giffgaff.com
 DOMAIN-SUFFIX,archlinux.org
